@@ -1,5 +1,5 @@
 body{
-    background-image: url(/relogio_digital/assets/fundorelogio.jpg);
+    background-image: url(assets/fundorelogio.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
